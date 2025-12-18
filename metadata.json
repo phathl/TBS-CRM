@@ -1,0 +1,5 @@
+{
+  "name": "TBS CRM",
+  "description": "A comprehensive CRM for TBS to manage employees, departments, and tasks with Google Drive integration support.",
+  "requestFramePermissions": []
+}
