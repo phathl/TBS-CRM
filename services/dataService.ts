@@ -1,4 +1,3 @@
-
 import { Employee, Department, Task, AuditLog, Role } from '../types';
 // Fix: Use the new supabase client location as services/supabaseClient.ts is deprecated
 import { supabase } from '../lib/supabase/client';
